@@ -1,0 +1,6 @@
+Cython==0.21.1
+argparse==1.2.1
+joblib==0.8.3-r1
+numpy==1.9.1
+scipy==0.14.0
+wsgiref==0.1.2

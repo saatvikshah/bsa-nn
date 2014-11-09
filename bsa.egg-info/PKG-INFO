@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: bsa
+Version: 0.1dev
+Summary: Implementation of Backtracking Search Algorithm on a Neural Network Architecture supporting upto a single hidden layer
+Home-page: UNKNOWN
+Author: Saatvik Shah('tangy')
+Author-email: saatvikshah1994@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: bsa nn bsann ga geneticalgorithm
+Platform: UNKNOWN

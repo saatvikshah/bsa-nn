@@ -1,0 +1,12 @@
+setup.cfg
+setup.py
+bsa/__init__.py
+bsa/bsa.py
+bsa/utils.py
+bsa.egg-info/PKG-INFO
+bsa.egg-info/SOURCES.txt
+bsa.egg-info/dependency_links.txt
+bsa.egg-info/entry_points.txt
+bsa.egg-info/requires.txt
+bsa.egg-info/top_level.txt
+bsa.egg-info/zip-safe
